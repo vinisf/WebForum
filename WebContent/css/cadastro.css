@@ -1,0 +1,113 @@
+
+#tabelaCadastro {
+	border: 1px solid #2C7BCA;
+	background-color: white;
+	border-radius: 20px 20px 20px 20px;
+	margin: auto;
+	margin-top: 3%;
+	float: left;
+	margin-left: 8%;
+	font-weight: bolder;
+	width: 40%;
+	height: 38em;
+	margin-bottom: 2em;
+}
+
+#tabelaCadastro h1 {
+	margin-top: 2%;
+	text-align: center;
+	color: #2C7BCA;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	color: #2C7BCA;
+	text-align: center;
+}
+
+#tabelaCadastro table {
+	margin-left: 5em;
+	widht: 100%;
+	height: 27em;
+}
+
+select {
+	height: 90%;
+	width: 20%;
+}
+
+.selecao {
+	float: left;
+	width: 25em;
+	height: 100%;
+}
+
+.telefone {
+	float: left;
+	width: 10em;
+	height: 100%;
+}
+
+#senha {
+	float: left;
+	width: 15em;
+	height: 100%;
+}
+
+.date {
+	float: left;
+	width: 12em;
+	height: 100%;
+}
+
+#botao {
+	margin-top: 2em;
+	margin-right: 2%;
+	margin-left: 15em;
+	border: 2px solid #2C7BCA;
+	width: 9em;
+	height: 2em;
+}
+
+#frase {
+	margin-top: 6%;
+	color: #2C7BCA;
+	text-shadow: black 0.1em 0.1em 0.1em;
+	text-align: center;
+	margin-left: 4%;
+	font-size: 200%;
+	float: left;
+	width: 45%;
+	height: 10em;
+	text-align: center;
+}
+
+/* Perfil.jsp*/
+#tabelaCadastro h3 {
+	margin-top: -9px;
+	margin-left: 1em;
+}
+
+#tabelaCadastro a {
+	margin-left: 1em;
+}
+
+#print {
+	color: orange;
+	font-size: 1em;
+}
+
+.par {
+	color: #000;
+}
+
+form span {
+	float: left;
+	margin-left: 1em;
+	margin-top: 1em;
+	font-size: 20px;
+	
+	width: 3%;
+	height: 10%;
+}
+
+#op {
+	width: 10em;
+}

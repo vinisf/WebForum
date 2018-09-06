@@ -1,0 +1,72 @@
+
+#conta {
+	font-family: Times New Roman;
+	background-color: #FFFFFF;
+	border: solid 1px #2C7BCA;
+	float: left;
+	margin-top: 5%;
+	margin-left: 8%;
+	margin-bottom: 5em;
+	border-radius: 20px 20px 20px 20px;
+	text-align: center;
+	width: 32%;
+	height: 23em;
+}
+
+#conta h1 {
+	text-shadow: black 2px 1px 2px;
+	color: #2C7BCA;
+}
+
+#login input {
+	border: 1px solid #000000;
+	margin-top: 2%;
+	margin-left: 17%;
+	display: block;
+	width: 65%;
+	height: 2em;
+	text-align: center;
+	font-weight: bold;
+}
+
+#senha input {
+	border: 1px solid #000000;
+	margin-top: 3%;
+	margin-left: 17%;
+	margin-bottom: 3%;
+	display: block;
+	width: 65%;
+	height: 2em;
+	text-align: center;
+	font-weight: bold;
+}
+
+#salvar input {
+	background-color: #434e66;
+	color: white;
+	width: 10em;
+	height: 30px;
+	border-radius: 20px 20px 20px 20px;
+}
+
+#frase {
+	margin-top: 8%;
+	color: #2C7BCA;
+	text-shadow: black 0.1em 0.1em 0.1em;
+	text-align: center;
+	float: left;
+	margin-left: 5%;
+	font-size: 200%;
+	width: 45%;
+	height: 10em;
+	text-align: center;
+}
+
+#print {
+	color: orange;
+	font-size: 1em;
+}
+
+.par {
+	color: #000;
+}
