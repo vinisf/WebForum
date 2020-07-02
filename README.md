@@ -1,2 +1,2 @@
 # WebForum
-Sistema Web feito para disciplina de LPW - Sistemas de Informação
+Sistema Web feito para disciplina de LPW (Linguagem de programação para web).
